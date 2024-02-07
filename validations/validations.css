@@ -1,0 +1,6 @@
+.error
+{
+    border: solid 1px #d00 !important;
+    color: #d00 !important;
+    box-shadow: 1px 1px 10px -2px #d00 !important;
+}
