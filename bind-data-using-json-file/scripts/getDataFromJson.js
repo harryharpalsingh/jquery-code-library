@@ -1,4 +1,3 @@
-//Created by Harpal Singh -- 9 February 2024 
 function bindCountryList() {
     $('#ddlCountries').empty().append(`<option value='-1'>--Select--</option>`);
     $.ajax({
